@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To get the application up and running you'll need:
 
-Things you may want to cover:
+* Ruby version 2.4.1
 
-* Ruby version
+* Rails version 5.1.7
 
-* System dependencies
+* SQLite3
 
-* Configuration
+To download and run the application follow the steps:
 
-* Database creation
+* Open the terminal and go to the directory where you want to clone this apllication
 
-* Database initialization
+* Run the command: "git clone git@github.com:DarlanSel/demo.git"
 
-* How to run the test suite
+* In the terminal, open the "demo" directory and run "rails -s" to start the apllication
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Yay! You're on Rails!
